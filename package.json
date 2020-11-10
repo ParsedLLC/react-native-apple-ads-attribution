@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenmaca/react-native-apple-ads-attribution.git"
+    "url": "git+https://github.com/ParsedLLC/react-native-apple-ads-attribution.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -31,9 +31,9 @@
   "author": "Kenneth Ma <ken@kenma.ca>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenmaca/react-native-apple-ads-attribution/issues"
+    "url": "https://github.com/ParsedLLC/react-native-apple-ads-attribution.git"
   },
-  "homepage": "https://github.com/kenmaca/react-native-apple-ads-attribution#readme",
+  "homepage": "https://github.com/ParsedLLC/react-native-apple-ads-attribution.git",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
